@@ -12,282 +12,282 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\include\cairo-version.h">
+    <ClInclude Include="include\cairo-version.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\include\cairo\cairo.h">
+    <ClInclude Include="include\cairo\cairo.h">
       <Filter>include\cairo</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\include\cairo\cairo-deprecated.h">
+    <ClInclude Include="include\cairo\cairo-deprecated.h">
       <Filter>include\cairo</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\include\cairo\cairo-features.h">
+    <ClInclude Include="include\cairo\cairo-features.h">
       <Filter>include\cairo</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\include\cairo\cairo-malloc.h">
+    <ClInclude Include="include\cairo\cairo-malloc.h">
       <Filter>include\cairo</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\include\cairo\cairo-version.h">
+    <ClInclude Include="include\cairo\cairo-version.h">
       <Filter>include\cairo</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-analysis-surface-private.h">
+    <ClInclude Include="source\cairo-analysis-surface-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-arc-private.h">
+    <ClInclude Include="source\cairo-arc-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-atomic-private.h">
+    <ClInclude Include="source\cairo-atomic-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-cache-private.h">
+    <ClInclude Include="source\cairo-cache-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-clip-private.h">
+    <ClInclude Include="source\cairo-clip-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-compiler-private.h">
+    <ClInclude Include="source\cairo-compiler-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-fixed-private.h">
+    <ClInclude Include="source\cairo-fixed-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-fixed-type-private.h">
+    <ClInclude Include="source\cairo-fixed-type-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-freelist-private.h">
+    <ClInclude Include="source\cairo-freelist-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-gstate-private.h">
+    <ClInclude Include="source\cairo-gstate-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-hash-private.h">
+    <ClInclude Include="source\cairo-hash-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairoint.h">
+    <ClInclude Include="source\cairoint.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-malloc-private.h">
+    <ClInclude Include="source\cairo-malloc-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-meta-surface-private.h">
+    <ClInclude Include="source\cairo-meta-surface-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-mutex-impl-private.h">
+    <ClInclude Include="source\cairo-mutex-impl-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-mutex-list-private.h">
+    <ClInclude Include="source\cairo-mutex-list-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-mutex-private.h">
+    <ClInclude Include="source\cairo-mutex-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-mutex-type-private.h">
+    <ClInclude Include="source\cairo-mutex-type-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-output-stream-private.h">
+    <ClInclude Include="source\cairo-output-stream-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-paginated-private.h">
+    <ClInclude Include="source\cairo-paginated-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-paginated-surface-private.h">
+    <ClInclude Include="source\cairo-paginated-surface-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-path-fixed-private.h">
+    <ClInclude Include="source\cairo-path-fixed-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-path-private.h">
+    <ClInclude Include="source\cairo-path-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-private.h">
+    <ClInclude Include="source\cairo-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-reference-count-private.h">
+    <ClInclude Include="source\cairo-reference-count-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-region-private.h">
+    <ClInclude Include="source\cairo-region-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-scaled-font-private.h">
+    <ClInclude Include="source\cairo-scaled-font-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-skiplist-private.h">
+    <ClInclude Include="source\cairo-skiplist-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-surface-fallback-private.h">
+    <ClInclude Include="source\cairo-surface-fallback-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-surface-private.h">
+    <ClInclude Include="source\cairo-surface-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-types-private.h">
+    <ClInclude Include="source\cairo-types-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-user-font-private.h">
+    <ClInclude Include="source\cairo-user-font-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-wideint-private.h">
+    <ClInclude Include="source\cairo-wideint-private.h">
       <Filter>source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-wideint-type-private.h">
+    <ClInclude Include="source\cairo-wideint-type-private.h">
       <Filter>source</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo.c">
+    <ClCompile Include="source\cairo.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-analysis-surface.c">
+    <ClCompile Include="source\cairo-analysis-surface.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-arc.c">
+    <ClCompile Include="source\cairo-arc.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-array.c">
+    <ClCompile Include="source\cairo-array.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-atomic.c">
+    <ClCompile Include="source\cairo-atomic.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-base85-stream.c">
+    <ClCompile Include="source\cairo-base85-stream.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-bentley-ottmann.c">
+    <ClCompile Include="source\cairo-bentley-ottmann.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-cache.c">
+    <ClCompile Include="source\cairo-cache.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-clip.c">
+    <ClCompile Include="source\cairo-clip.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-color.c">
+    <ClCompile Include="source\cairo-color.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-debug.c">
+    <ClCompile Include="source\cairo-debug.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-fixed.c">
+    <ClCompile Include="source\cairo-fixed.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-font-face.c">
+    <ClCompile Include="source\cairo-font-face.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-font-face-twin.c">
+    <ClCompile Include="source\cairo-font-face-twin.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-font-face-twin-data.c">
+    <ClCompile Include="source\cairo-font-face-twin-data.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-font-options.c">
+    <ClCompile Include="source\cairo-font-options.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-freelist.c">
+    <ClCompile Include="source\cairo-freelist.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-gstate.c">
+    <ClCompile Include="source\cairo-gstate.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-hash.c">
+    <ClCompile Include="source\cairo-hash.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-hull.c">
+    <ClCompile Include="source\cairo-hull.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-image-surface.c">
+    <ClCompile Include="source\cairo-image-surface.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-lzw.c">
+    <ClCompile Include="source\cairo-lzw.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-matrix.c">
+    <ClCompile Include="source\cairo-matrix.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-meta-surface.c">
+    <ClCompile Include="source\cairo-meta-surface.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-misc.c">
+    <ClCompile Include="source\cairo-misc.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-mutex.c">
+    <ClCompile Include="source\cairo-mutex.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-output-stream.c">
+    <ClCompile Include="source\cairo-output-stream.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-paginated-surface.c">
+    <ClCompile Include="source\cairo-paginated-surface.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-path.c">
+    <ClCompile Include="source\cairo-path.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-path-bounds.c">
+    <ClCompile Include="source\cairo-path-bounds.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-path-fill.c">
+    <ClCompile Include="source\cairo-path-fill.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-path-fixed.c">
+    <ClCompile Include="source\cairo-path-fixed.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-path-stroke.c">
+    <ClCompile Include="source\cairo-path-stroke.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-pattern.c">
+    <ClCompile Include="source\cairo-pattern.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-pen.c">
+    <ClCompile Include="source\cairo-pen.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-png.c">
+    <ClCompile Include="source\cairo-png.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-polygon.c">
+    <ClCompile Include="source\cairo-polygon.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-rectangle.c">
+    <ClCompile Include="source\cairo-rectangle.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-region.c">
+    <ClCompile Include="source\cairo-region.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-scaled-font.c">
+    <ClCompile Include="source\cairo-scaled-font.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-skiplist.c">
+    <ClCompile Include="source\cairo-skiplist.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-slope.c">
+    <ClCompile Include="source\cairo-slope.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-spline.c">
+    <ClCompile Include="source\cairo-spline.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-stroke-style.c">
+    <ClCompile Include="source\cairo-stroke-style.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-surface.c">
+    <ClCompile Include="source\cairo-surface.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-surface-fallback.c">
+    <ClCompile Include="source\cairo-surface-fallback.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-system.c">
+    <ClCompile Include="source\cairo-system.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-traps.c">
+    <ClCompile Include="source\cairo-traps.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-unicode.c">
+    <ClCompile Include="source\cairo-unicode.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-user-font.c">
+    <ClCompile Include="source\cairo-user-font.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-version.c">
+    <ClCompile Include="source\cairo-version.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\cairo\local-1.8.10\source\cairo-wideint.c">
+    <ClCompile Include="source\cairo-wideint.c">
       <Filter>source</Filter>
     </ClCompile>
   </ItemGroup>
